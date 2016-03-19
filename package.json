@@ -1,0 +1,32 @@
+{
+  "name": "travel-and-help",
+  "version": "1.0.1",
+  "private": true,
+  "description": "feed the homeless in chelyabinsk",
+  "scripts": {
+    "semver": "semver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stremann/travis-ci.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "express",
+    "mongodb"
+  ],
+  "author": {
+    "name": "travel and help team",
+    "url": "https://github.com/stremann/travis-ci/blob/master/AUTHORS.md"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stremann/travis-ci/issues",
+    "email": "stremann@yahoo.com"
+  },
+  "homepage": "https://github.com/stremann/travis-ci#readme",
+  "devDependencies": {
+    "semver": "^5.1.0"
+  }
+}
