@@ -1,4 +1,4 @@
-# Travel and Help: Travis-CI
+# Travel and Help: Travis-CI [![Build Status](https://travis-ci.org/stremann/travis-ci.svg?branch=master)](https://travis-ci.org/stremann/travis-ci)
 
 ![EPAM Systems](http://stremann.github.io/assets/images/logo.svg)
 
@@ -10,6 +10,4 @@
 ```sh
 $ git clone [url] travis-ci
 $ cd travis-ci
-$ npm start
-$ node server.js
 ```
