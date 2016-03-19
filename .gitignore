@@ -1,0 +1,6 @@
+# Idea files
+.idea
+
+# Node modules
+node_modules
+npm-debug.log
